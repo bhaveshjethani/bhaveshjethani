@@ -32,14 +32,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-[website]: https://stackoverflow.com/users/2110965/bhavesh-jethani
-[twitter]: https://twitter.com/chichi28_17
-[linkedin]: https://linkedin.com/in/chichi289/
-[instagram]: https://instagram.com/chiragrprajapati28
+[stackoverflow]: https://stackoverflow.com/users/2110965/bhavesh-jethani
+[twitter]: https://mobile.twitter.com/bhavesh_jethani
+[linkedin]: https://in.linkedin.com/in/bhavesh-jethani-b2925522
