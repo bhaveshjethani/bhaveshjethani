@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 I develop pixel-perfect Android Apps
 - 🌱 I’m currently learning **Jetpack Compose**
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Android
 - 📫 How to reach me - jethani.bhavesh@gmail.com
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
