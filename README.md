@@ -5,11 +5,21 @@
 
 ## I'm an Android Developer!! -->
 
-- 👨🏻‍💻 I develop pixel-perfect Android Apps
-- 🌱 I’m currently learning **Jetpack Compose**
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 👨🏻‍ Motivated, self-starter with a passion to succeed and committed & confident professional, zeal to learn new concepts and apply own ideas for achieving best results. 
+- 9+ years of experience in application development and quality assurance for the product. Till now developed more than 40+ applications.Worked in all phases of the project including pre sales activity, POC, risk analysis, project estimation, system architecture design as support, mobile architecture defining, app design, development, team management, task allocation, review, testing and deployment.
+- More than 5+ years of experience to communicate with clients directly to understand work, design, develop and deployment of applications  Also experience to lead the project by headline cross platform work.
+- Excellent analytical and technical skills and thorough knowledge of Agile Life Cycle and Waterfall Development Life Cycle.Experience on MVC, MVP, MVVM and MVVM with Clean architecture.
+- Experience with Firebase features like, firestore, cloud messaging, realtime database, dynamic link, app distribution, analytics, crashlytics.
+- Strong understanding of object-oriented programming, memory management, data structure & algorithms and app performance.
+- Strong foundation in UI design and a user-oriented focus with Google Material Design Components, Androidx appcompat.
+- Good experience to define API input/output with the backend team to get desired output like secure, quick, efficient.
+- Strong understanding in app distribution for testing like internal testing, close testing, open testing of Playstore. Also there are more ways for distributing applications in firebase app distribution, apphost link, diawi link.
+- **Domain Knowledge:** Enterprise Solution(KIOSK), SmartWatch, IPTV, Social Media, Banking (Credit Score and Utility App), Travel, Taxi Booking, Restaurant Booking, Event Booking, Logistics management. 
+- **Libraries/APIs:** MQTT Client, Twilio Chat, Open-fire server for chat, Jetpack, Navigation, Room, ViewModel, WorkManager, LiveData, Dagger2, Butter Knife,View Biding, Data Binding, Dependency injection  Hilt, FFMPEG, Mp4Parser, Retrofit, OkHttp, Crashlytics, Facebook/Twitter/Google API, Google Maps, GPS, Glide, PDF viewer, JSON, XML Parsing, In-App Purchase, AdMob, Zebra scanner, FCM, Firebase analytics, firestore, firebase realtime database, firebase dynamic link. 
+- **Payment Gateways:** Flutterwave, Stripe, PayPal, Paytm.
+
 - 💬 Ask me about Android
-- 📫 How to reach me - jethani.bhavesh@gmail.com
+### 📫 How to reach me - jethani.bhavesh@gmail.com
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 ### 🛠 &nbsp;Tech Stack
@@ -41,3 +51,4 @@
 [stackoverflow]: https://stackoverflow.com/users/2110965/bhavesh-jethani
 [twitter]: https://mobile.twitter.com/bhavesh_jethani
 [linkedin]: https://in.linkedin.com/in/bhavesh-jethani-b2925522
+ 
