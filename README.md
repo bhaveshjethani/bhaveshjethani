@@ -6,7 +6,7 @@
 ## I'm an Android Developer!! -->
 
 - 👨🏻‍ Motivated, self-starter with a passion to succeed and committed & confident professional, zeal to learn new concepts and apply own ideas for achieving best results. 
-- 9+ years of experience in application development and quality assurance for the product. Till now developed more than 40+ applications.Worked in all phases of the project including pre sales activity, POC, risk analysis, project estimation, system architecture design as support, mobile architecture defining, app design, development, team management, task allocation, review, testing and deployment.
+- 10+ years of experience in application development and quality assurance for the product. Till now developed more than 40+ applications.Worked in all phases of the project including pre sales activity, POC, risk analysis, project estimation, system architecture design as support, mobile architecture defining, app design, development, team management, task allocation, review, testing and deployment.
 - More than 5+ years of experience to communicate with clients directly to understand work, design, develop and deployment of applications  Also experience to lead the project by headline cross platform work.
 - Excellent analytical and technical skills and thorough knowledge of Agile Life Cycle and Waterfall Development Life Cycle.Experience on MVC, MVP, MVVM and MVVM with Clean architecture.
 - Experience with Firebase features like, firestore, cloud messaging, realtime database, dynamic link, app distribution, analytics, crashlytics.
