@@ -15,7 +15,7 @@
 - Good experience to define API input/output with the backend team to get desired output like secure, quick, efficient.
 - Strong understanding in app distribution for testing like internal testing, close testing, open testing of Playstore. Also there are more ways for distributing applications in firebase app distribution, apphost link, diawi link.
 - **Domain Knowledge:** Enterprise Solution(KIOSK), SmartWatch, IPTV, Social Media, Banking (Credit Score and Utility App), Travel, Taxi Booking, Restaurant Booking, Event Booking, Logistics management. 
-- **Libraries/APIs:** MQTT Client, Twilio Chat, Open-fire server for chat, Jetpack, Navigation, Room, ViewModel, WorkManager, LiveData, Dagger2, Butter Knife,View Biding, Data Binding, Dependency injection  Hilt, FFMPEG, Mp4Parser, Retrofit, OkHttp, Crashlytics, Facebook/Twitter/Google API, Google Maps, GPS, Glide, PDF viewer, JSON, XML Parsing, In-App Purchase, AdMob, Zebra scanner, FCM, Firebase analytics, firestore, firebase realtime database, firebase dynamic link. 
+- **Libraries/APIs:** MQTT Client, Twilio Chat, Open-fire server for chat, Jetpack Compose, Navigation Graph, Room, ViewModel, WorkManager, LiveData, Dagger2, Butter Knife,View Biding, Data Binding, Dependency injection  Hilt, FFMPEG, Mp4Parser, Retrofit, OkHttp, Crashlytics, Facebook/Twitter/Google API, Google Maps, GPS, Glide, Picasso, Lottie, PDF Viewer, , In-App Purchase, AdMob, Zebra scanner, FCM, Firebase analytics, firestore, firebase realtime database, firebase dynamic link, EventBus,UCrop, Facebook Shimmer, Biometric, MPAndroidChart. 
 - **Payment Gateways:** Flutterwave, Stripe, PayPal, Paytm.
 
 - 💬 Ask me about Android
